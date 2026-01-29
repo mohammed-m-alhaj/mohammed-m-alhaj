@@ -2,9 +2,9 @@
 <div align="center">
 
 <h1>Mohammed Alhaj</h1>
-<h3>Senior AI Engineer • Data & Intelligence Systems</h3>
+<h3>Expert AI Engineer • Data Intelligence Architect</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=700&color=4F8EF7&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Expert;Data+Analysis+%26+Big+Data+Engineering;Natural+Language+Processing+%28NLP%29;Generative+AI+%7C+LLMs+%7C+SLMs;RAG+Systems+%7C+AI+Agents+%7C+Production+AI" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=700&color=4F8EF7&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+Systems+Expert;Machine+Learning+%7C+Deep+Learning+%7C+Data+Science;Big+Data+Engineering+%26+Analytics;NLP+%7C+Generative+AI+%7C+LLMs+%7C+SLMs;RAG+Systems+%7C+Vector+Databases+%7C+AI+Agents;Production-Grade+AI+Architecture" />
 
 <br/>
 
@@ -16,74 +16,142 @@
 
 ---
 
-## 🧠 Professional Profile
-I am a **Senior Artificial Intelligence Engineer** with strong expertise in designing, building, and deploying **intelligent data-driven systems**.
+## 🧠 Professional Summary
+I am an **Expert Artificial Intelligence Engineer** specializing in **designing, engineering, and scaling intelligent systems** that operate on complex data at real-world scale.
 
-My work focuses on transforming **data → intelligence → real-world impact**, combining advanced AI techniques with solid engineering practices.
+My expertise spans the **full AI lifecycle**:
+> data ingestion → intelligence extraction → reasoning → generation → deployment
 
-I specialize in **end-to-end AI systems**, from raw data processing to scalable intelligent solutions.
+I work at the intersection of **AI, data engineering, and system architecture**, with a strong focus on **robust, explainable, and production-ready AI solutions**.
 
 ---
 
-## 🧩 Core Expertise
+## 🧩 Technical Expertise (Deep & Structured)
 
-### 🤖 Artificial Intelligence
-- Machine Learning & Deep Learning architectures  
-- Model optimization, evaluation, and deployment  
-- AI system design for real-world environments  
+### 🤖 Machine Learning & Deep Learning
+- Supervised, unsupervised & self-supervised learning  
+- Classical ML algorithms & ensemble methods  
+- Neural network architectures (CNNs, RNNs, Transformers)  
+- Model evaluation, tuning, and optimization  
+- Regularization, generalization & bias mitigation  
 
-### 🧠 Generative AI
-- Large Language Models (LLMs)  
-- Small Language Models (SLMs)  
-- Prompt engineering & model orchestration  
-- AI agents & tool-based reasoning systems  
+---
 
-### 📚 Retrieval-Augmented Generation (RAG)
-- Vector databases & embeddings  
-- Knowledge-aware AI systems  
-- Document intelligence & semantic search  
-- Context-aware LLM pipelines  
+### 🧠 Advanced Artificial Intelligence
+- Intelligent decision systems  
+- Knowledge-driven AI architectures  
+- Hybrid AI (symbolic + statistical)  
+- AI reasoning & inference pipelines  
+
+---
+
+### 📊 Data Analysis & Data Science
+- Exploratory Data Analysis (EDA)  
+- Feature engineering & dimensionality reduction  
+- Statistical modeling & hypothesis testing  
+- Time-series analysis & forecasting  
+- Data visualization & insight communication  
+
+---
+
+### 🗄 Big Data Engineering
+- Large-scale structured & unstructured data processing  
+- Batch & stream data pipelines  
+- Data modeling & schema design  
+- Distributed data processing concepts  
+- Data quality, validation & governance  
+
+---
 
 ### 🗣 Natural Language Processing (NLP)
-- Text classification & information extraction  
-- Semantic search & summarization  
-- Multilingual language processing  
-- Tokenization, embeddings & transformers  
+- Text preprocessing & normalization  
+- Tokenization & embeddings  
+- Information extraction & named entity recognition  
+- Semantic similarity & clustering  
+- Text summarization & question answering  
+- Multilingual & low-resource language processing  
 
-### 📊 Data Analysis & Big Data
-- Data cleaning, preprocessing & feature engineering  
-- Large-scale data pipelines  
-- Analytical modeling & insights extraction  
-- Structured & unstructured data handling  
+---
+
+### ✨ Generative AI
+- Generative model architectures  
+- Prompt engineering & prompt chaining  
+- Text generation, summarization & synthesis  
+- Controlled generation & hallucination mitigation  
+- Evaluation of generative systems  
+
+---
+
+### 🧠 Large & Small Language Models
+- LLM fine-tuning & inference optimization  
+- SLM design for edge & cost-efficient deployment  
+- Context window optimization  
+- Model compression & quantization concepts  
+
+---
+
+### 📚 Retrieval-Augmented Generation (RAG)
+- Vector embeddings & similarity search  
+- Knowledge indexing & retrieval pipelines  
+- Hybrid search (semantic + keyword)  
+- Context injection strategies  
+- RAG evaluation & relevance tuning  
+
+---
+
+### 🤖 AI Agents & Tooling
+- Agent-based system design  
+- Tool calling & function orchestration  
+- Multi-agent collaboration patterns  
+- Planning, routing & execution strategies  
+- Autonomous & semi-autonomous AI workflows  
+
+---
+
+## 🏗 AI Systems & Architecture
+- End-to-end AI system design  
+- Modular & scalable architectures  
+- Data-centric AI pipelines  
+- Latency-aware inference design  
+- Fault tolerance & reliability considerations  
 
 ---
 
 ## 🛠 Technology Stack
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,docker,linux,git&perline=5"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,linux,git,postgresql,mongodb&perline=8"/>
 
 </div>
 
 - **Languages:** Python  
-- **AI / ML:** PyTorch, Transformers, Embeddings  
-- **Data:** Pandas, NumPy, Big Data processing concepts  
-- **LLMs:** RAG pipelines, agent-based architectures  
-- **Deployment:** Docker, local & production-ready inference  
+- **ML/DL:** PyTorch, TensorFlow  
+- **Data:** Pandas, NumPy, analytical pipelines  
+- **Databases:** SQL & NoSQL, vector databases (conceptual & applied)  
+- **Deployment:** Docker, containerized inference  
 - **Systems:** Linux-based AI environments  
 
 ---
 
-## 🧭 Engineering Approach
-- Design **scalable and maintainable AI systems**  
-- Treat data as the **core intelligence asset**  
-- Focus on **robustness, performance, and reliability**  
-- Bridge the gap between **research and production**  
-- Build AI that **augments decision-making**, not just automation  
+## 🧭 Engineering Philosophy
+- Data is the **foundation of intelligence**  
+- Models must be **understandable, measurable, and reliable**  
+- Architecture matters as much as algorithms  
+- AI systems should **scale logically, not just computationally**  
+- Real AI value comes from **integration**, not isolated models  
 
 ---
 
-## 📊 GitHub Analytics
+## 🎯 Focus Domains
+- Intelligent data platforms  
+- Knowledge-aware AI systems  
+- Generative AI & LLM-based solutions  
+- NLP-driven automation  
+- Large-scale AI reasoning systems  
+
+---
+
+## 📊 GitHub Activity
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=mohammed-m-alhaj&show_icons=true&hide_border=true&theme=default" height="160"/>
@@ -93,23 +161,8 @@ I specialize in **end-to-end AI systems**, from raw data processing to scalable 
 
 ---
 
-## 🎯 Focus Areas
-- Intelligent data systems  
-- Generative AI & LLM applications  
-- Retrieval-augmented knowledge systems  
-- NLP-driven automation  
-- AI system architecture & optimization  
-
----
-
-## 📬 Contact
-- GitHub: https://github.com/mohammed-m-alhaj  
-- Email: *(optional)*  
-
----
-
 <div align="center">
 
-⭐ **Expertise-driven Artificial Intelligence Engineering** ⭐
+⭐ **Engineering Intelligence at Scale** ⭐
 
 </div>

@@ -6,14 +6,13 @@
 ---
 
 ## 👋 About Me
-I’m **Mohammed Mohammed Yahya Al-Haj**, an **Elite AI Engineer** passionate about turning  
-**complex AI ideas into real, reliable products that people actually use**.
+I’m **Mohammed Mohammed Yahya Al-Haj**, an **Elite AI Engineer** who builds  
+**real, production-grade AI systems** that people actually use.
 
-I specialize in building **production-grade AI & data systems**, combining  
-**Artificial Intelligence, Generative AI, Data Analytics, Backend APIs, and Frontend applications**  
-to deliver **end-to-end intelligent solutions** — not just models or demos.
+I specialize in delivering **end-to-end intelligent products** by combining  
+**Artificial Intelligence, Generative AI, Data Analytics, Backend APIs, and Frontend applications**.
 
-> **Core belief:** AI succeeds only when it works reliably in the real world.
+> **Belief:** AI is successful only when it works reliably in the real world.
 
 ---
 
@@ -24,7 +23,7 @@ to deliver **end-to-end intelligent solutions** — not just models or demos.
 - Full-Stack AI Engineer
 
 **Experience Level:**  
-Comfortable owning systems **end-to-end**, working independently with minimal supervision.
+Able to **own systems end-to-end**, from design to deployment and iteration.
 
 ---
 
@@ -38,24 +37,24 @@ Comfortable owning systems **end-to-end**, working independently with minimal su
 ---
 
 ## 👤 Working Style & Values
-- I take **full ownership** of the systems I build
-- I communicate clearly and document my work
-- I enjoy collaborating with cross-functional teams
-- I value reliability, clarity, and long-term maintainability
-- I’m always learning and improving my engineering practices
+- Take **full ownership** of the systems I build
+- Communicate clearly and document decisions
+- Collaborate effectively with cross-functional teams
+- Value reliability, clarity, and long-term maintainability
+- Continuously learning and improving
 
 ---
 
 ## 🚀 Impact & Achievements
-- Built **end-to-end AI systems** from raw data to production deployment
+- Built **end-to-end AI systems** from raw data to production
 - Delivered **Generative AI features** inside real user-facing applications
 - Integrated AI models into **backend services and frontend dashboards**
-- Designed analytics pipelines supporting **data-driven decisions**
+- Designed analytics pipelines enabling **data-driven decisions**
 - Focused on **measurable system and business impact**
 
 ---
 
-## 🧩 What I Build (Project Domains)
+## 🧩 What I Build
 - Full-stack AI web applications  
 - Generative AI & LLM-powered products  
 - Retrieval-Augmented Generation (RAG) systems  
@@ -65,23 +64,22 @@ Comfortable owning systems **end-to-end**, working independently with minimal su
 ---
 
 ## 🧠 Experience in Artificial Intelligence
-I have strong hands-on experience across the **AI spectrum**, with a clear focus on  
+Hands-on experience across the **AI spectrum**, with a strong focus on  
 **production readiness and system reliability**.
 
-My experience includes:
-- Machine Learning & Deep Learning model development
-- Computer Vision pipelines for real-world data
-- Generative AI systems using **LLMs and SLMs**
-- **Prompt Engineering** as an engineering discipline
-- Building **RAG systems** for grounded generation
-- Integrating AI into backend APIs and frontend applications
-- Optimizing systems for **performance, scalability, and stability**
+- Machine Learning & Deep Learning
+- Computer Vision for real-world data
+- Generative AI using **LLMs and SLMs**
+- **Prompt Engineering** (design, testing, evaluation)
+- RAG systems for grounded generation
+- AI integration into backend APIs and frontend applications
+- Performance, scalability, and stability optimization
 
 ---
 
 ## ✨ Generative AI · LLMs · SLMs · Prompt Engineering
 - Large & Small Language Models
-- Advanced prompt design, testing, and optimization
+- Advanced prompt design & optimization
 - Few-shot and structured prompting
 - Tool / Function calling
 - Output validation & hallucination mitigation
@@ -93,34 +91,32 @@ My experience includes:
 - Hybrid retrieval (Vector + Keyword)
 - Multi-step reasoning workflows
 - Agent orchestration & memory design
-- Reliability-focused LLM evaluation
+- Reliability-focused evaluation
 
 ---
 
 ## 📊 Data Analysis · BI · Big Data
-- Data analysis & visualization using **Power BI**
+- Data analysis & visualization with **Power BI**
 - Interactive dashboards & KPI reporting
 - Data modeling and analytics thinking
-- Big Data processing with **Apache Spark**
-- Distributed analytics using **PySpark**
+- Big Data processing using **Apache Spark**
+- Distributed analytics with **PySpark**
 - Feeding ML & GenAI systems from large-scale data
 
 ---
 
 ## 🧩 Full-Stack Engineering (Frontend + Backend)
 ### Backend
-- Designing RESTful APIs for AI systems
-- AI model serving and inference APIs
+- RESTful APIs for AI systems
+- Model serving & inference APIs
 - Data pipelines and ETL integration
-- Secure and scalable backend architecture
+- Secure, scalable backend architecture
 
 ### Frontend
-- Building modern React-based applications
-- Integrating AI and analytics APIs into UIs
-- Designing dashboards for AI & BI systems
-- Data-driven, component-based architecture
-
-> **Focus:** bridging intelligent systems with excellent user experience.
+- Modern React-based applications
+- AI & analytics integration in UIs
+- Dashboards for AI & BI systems
+- Data-driven, component-based design
 
 ---
 
@@ -129,15 +125,14 @@ My experience includes:
 - Experiment tracking & reproducibility
 - Model & data versioning
 - CI/CD for AI systems
-- Deployment monitoring & safe updates
-- Awareness of failure modes and rollback strategies
+- Monitoring, safe updates & rollback awareness
 
 ---
 
 ## 🤝 Collaboration & Communication
 - Explain complex AI concepts to non-technical stakeholders
 - Work closely with product, frontend, and data teams
-- Strong documentation and knowledge-transfer mindset
+- Strong documentation & knowledge-sharing mindset
 
 ---
 
@@ -173,9 +168,9 @@ Git · GitHub · Docker · Linux
 
 ## 📬 Open to Opportunities
 Looking for roles where I can **build, own, and improve production-grade AI systems**  
-and collaborate with teams that value **impact, clarity, and real-world results**.
+with teams that value **impact, clarity, and real-world results**.
 
-If you’re building something meaningful with AI, I’d be happy to connect.
+If you’re building something meaningful with AI, I’d be happy to collaborate.
 
 ---
 

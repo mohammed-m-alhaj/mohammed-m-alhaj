@@ -145,25 +145,69 @@ My experience includes:
 ---
 
 ## 🛠️ Technologies & Tools (Listed Last by Design)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,react,django,fastapi,laravel,flutter,mongodb,mysql,postgres,git,github,docker,linux" />
-</p>
 
 ### Programming Languages
-Python · C++ · C# · Java · JavaScript · PHP · HTML · CSS · Dart  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,javascript,php,html,css,dart" />
+</p>
 
-### AI & Generative AI
-Machine Learning · Deep Learning · Computer Vision  
-Generative AI · LLMs · SLMs · RAG  
+---
+
+### AI & Machine Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
+</p>
+
+- Machine Learning  
+- Deep Learning  
+- Computer Vision  
+- Generative AI · LLMs · SLMs · RAG  
+
+---
 
 ### Data & Analytics
-Power BI · Apache Spark · PySpark  
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-Big%20Data-E25A1C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PySpark-Distributed%20Processing-E25A1C?style=for-the-badge" />
+</p>
+
+- Power BI (Dashboards & BI)  
+- Apache Spark · PySpark  
+- Big Data Processing & Analytics  
+
+---
 
 ### Backend & Frontend Frameworks
-Django · FastAPI · Laravel · React · Flutter  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,fastapi,laravel,react,flutter" />
+</p>
+
+- Backend APIs & Services  
+- Full-Stack AI Applications  
+- Frontend Dashboards & Interfaces  
+
+---
+
+### Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+- NoSQL & SQL Databases  
+- Analytics & AI Data Storage  
+
+---
 
 ### DevOps & Systems
-Git · GitHub · Docker · Linux  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
+</p>
+
+- Version Control & Collaboration  
+- Containerized Deployments  
+- Linux-based Production Environments  
+
 
 
 ---

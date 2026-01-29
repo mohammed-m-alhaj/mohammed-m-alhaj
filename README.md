@@ -1,168 +1,124 @@
-<!-- ===================== HEADER ===================== -->
-<div align="center">
-
-<h1>Mohammed Alhaj</h1>
-<h3>Expert AI Engineer • Data Intelligence Architect</h3>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=700&color=4F8EF7&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+Systems+Expert;Machine+Learning+%7C+Deep+Learning+%7C+Data+Science;Big+Data+Engineering+%26+Analytics;NLP+%7C+Generative+AI+%7C+LLMs+%7C+SLMs;RAG+Systems+%7C+Vector+Databases+%7C+AI+Agents;Production-Grade+AI+Architecture" />
-
-<br/>
-
-<a href="https://github.com/mohammed-m-alhaj">
-  <img src="https://img.shields.io/github/followers/mohammed-m-alhaj?label=Followers&style=for-the-badge"/>
-</a>
-
-</div>
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Engineer;Machine+Learning+%26+Deep+Learning;Computer+Vision+%26+Image+Processing;LLMs+%7C+RAG+%7C+Agents" />
+</p>
 
 ---
 
-## 🧠 Professional Summary
-I am an **Expert Artificial Intelligence Engineer** specializing in **designing, engineering, and scaling intelligent systems** that operate on complex data at real-world scale.
+## 👋 About Me
+🚀 **AI Engineer** with strong experience in **Machine Learning, Deep Learning, Computer Vision, Image Processing**, and **Data Engineering**.  
+I build **production-ready AI systems**, intelligent **LLM-powered applications**, and **agent-based architectures** using modern tools and frameworks.
 
-My expertise spans the **full AI lifecycle**:
-> data ingestion → intelligence extraction → reasoning → generation → deployment
-
-I work at the intersection of **AI, data engineering, and system architecture**, with a strong focus on **robust, explainable, and production-ready AI solutions**.
+I enjoy working at the intersection of **AI + Software Engineering + Real-world systems**.
 
 ---
 
-## 🧩 Technical Expertise (Deep & Structured)
+## 🧠 AI & Data Expertise
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
+</p>
 
-### 🤖 Machine Learning & Deep Learning
-- Supervised, unsupervised & self-supervised learning  
-- Classical ML algorithms & ensemble methods  
-- Neural network architectures (CNNs, RNNs, Transformers)  
-- Model evaluation, tuning, and optimization  
-- Regularization, generalization & bias mitigation  
-
----
-
-### 🧠 Advanced Artificial Intelligence
-- Intelligent decision systems  
-- Knowledge-driven AI architectures  
-- Hybrid AI (symbolic + statistical)  
-- AI reasoning & inference pipelines  
+- 🤖 Machine Learning & Deep Learning  
+- 👁️ Computer Vision & Image Processing  
+- 🧬 Data Engineering & Data Analysis  
+- ✨ Generative AI  
+- 🧠 LLMs · SLMs · RAG · AI Agents  
+- 🔗 LangChain · LangGraph  
 
 ---
 
-### 📊 Data Analysis & Data Science
-- Exploratory Data Analysis (EDA)  
-- Feature engineering & dimensionality reduction  
-- Statistical modeling & hypothesis testing  
-- Time-series analysis & forecasting  
-- Data visualization & insight communication  
+## 💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,js,php,html,css,dart" />
+</p>
 
 ---
 
-### 🗄 Big Data Engineering
-- Large-scale structured & unstructured data processing  
-- Batch & stream data pipelines  
-- Data modeling & schema design  
-- Distributed data processing concepts  
-- Data quality, validation & governance  
+## ⚙️ Frameworks & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,laravel,flutter,fastapi" />
+</p>
+
+- Django · FastAPI  
+- Laravel  
+- Flutter  
+- REST APIs · Backend Systems  
 
 ---
 
-### 🗣 Natural Language Processing (NLP)
-- Text preprocessing & normalization  
-- Tokenization & embeddings  
-- Information extraction & named entity recognition  
-- Semantic similarity & clustering  
-- Text summarization & question answering  
-- Multilingual & low-resource language processing  
+## 🗄️ Databases & Storage
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+- 🟢 MongoDB  
+- 🟦 SQL Databases (MySQL, PostgreSQL)  
+- 🧠 Vector Databases (Milvus, Pinecone, FAISS)  
 
 ---
 
-### ✨ Generative AI
-- Generative model architectures  
-- Prompt engineering & prompt chaining  
-- Text generation, summarization & synthesis  
-- Controlled generation & hallucination mitigation  
-- Evaluation of generative systems  
+## 🛠️ DevOps & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
+</p>
+
+- Git & GitHub  
+- Docker & Containers  
+- Linux Systems  
+- CI/CD basics  
 
 ---
 
-### 🧠 Large & Small Language Models
-- LLM fine-tuning & inference optimization  
-- SLM design for edge & cost-efficient deployment  
-- Context window optimization  
-- Model compression & quantization concepts  
+## ⚡ Featured Projects
+🚗 **Smart Parking Occupancy System**  
+AI-powered parking detection using computer vision and cameras.
+
+🔍 **License Plate Recognition System**  
+OCR + Deep Learning for real-world vehicle plate recognition.
+
+🤖 **LLM-based AI Agents**  
+RAG-powered assistants using LangChain & LangGraph.
 
 ---
 
-### 📚 Retrieval-Augmented Generation (RAG)
-- Vector embeddings & similarity search  
-- Knowledge indexing & retrieval pipelines  
-- Hybrid search (semantic + keyword)  
-- Context injection strategies  
-- RAG evaluation & relevance tuning  
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+</p>
 
 ---
 
-### 🤖 AI Agents & Tooling
-- Agent-based system design  
-- Tool calling & function orchestration  
-- Multi-agent collaboration patterns  
-- Planning, routing & execution strategies  
-- Autonomous & semi-autonomous AI workflows  
+## 🧩 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 🏗 AI Systems & Architecture
-- End-to-end AI system design  
-- Modular & scalable architectures  
-- Data-centric AI pipelines  
-- Latency-aware inference design  
-- Fault tolerance & reliability considerations  
+## 🎯 Career Goals
+- Build scalable **AI systems for real-world applications**
+- Advance **Agentic AI & RAG architectures**
+- Contribute to **open-source AI projects**
+- Combine **AI + IoT + Backend systems**
 
 ---
 
-## 🛠 Technology Stack
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,linux,git,postgresql,mongodb&perline=8"/>
-
-</div>
-
-- **Languages:** Python  
-- **ML/DL:** PyTorch, TensorFlow  
-- **Data:** Pandas, NumPy, analytical pipelines  
-- **Databases:** SQL & NoSQL, vector databases (conceptual & applied)  
-- **Deployment:** Docker, containerized inference  
-- **Systems:** Linux-based AI environments  
+## 📫 Connect With Me
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
 ---
 
-## 🧭 Engineering Philosophy
-- Data is the **foundation of intelligence**  
-- Models must be **understandable, measurable, and reliable**  
-- Architecture matters as much as algorithms  
-- AI systems should **scale logically, not just computationally**  
-- Real AI value comes from **integration**, not isolated models  
-
----
-
-## 🎯 Focus Domains
-- Intelligent data platforms  
-- Knowledge-aware AI systems  
-- Generative AI & LLM-based solutions  
-- NLP-driven automation  
-- Large-scale AI reasoning systems  
-
----
-
-## 📊 GitHub Activity
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mohammed-m-alhaj&show_icons=true&hide_border=true&theme=default" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-m-alhaj&layout=compact&hide_border=true" height="160"/>
-
-</div>
-
----
-
-<div align="center">
-
-⭐ **Engineering Intelligence at Scale** ⭐
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=footer"/>
+</p>

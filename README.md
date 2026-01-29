@@ -1,145 +1,137 @@
-<!-- ===== Animated Header ===== -->
+<!-- ================= Animated Header ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=محمد+محمد+يحيى+الحاج;Elite+AI+Engineer;Machine+Learning+%26+Deep+Learning;Computer+Vision+%26+Image+Processing;LLMs+%7C+RAG+%7C+Agentic+AI" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/mohammed-alhaj-7ds">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" alt="Docker" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/VectorDBs-Milvus%20%7C%20Pinecone%20%7C%20FAISS-101010?style=for-the-badge" alt="VectorDBs" />
-  <img src="https://img.shields.io/badge/LLMs-RAG%20%7C%20LangChain-7B61FF?style=for-the-badge" alt="LLMs" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=950&lines=محمد+محمد+يحيى+الحاج;Elite+AI+Engineer;Machine+Learning+%26+Deep+Learning;Computer+Vision+%26+Image+Processing;LLMs+%7C+RAG+%7C+Agentic+AI;Production-Ready+AI+Systems" />
 </p>
 
 ---
 
-# 👋 مرحبًا — أنا محمد محمد يحيى الحاج
-مهندس ذكاء اصطناعي (Elite AI Engineer) متخصص في **تعلم الآلة، التعلم العميق، الرؤية الحاسوبية ومعالجة الصور**، بالإضافة إلى **هندسة البيانات، تصميم ونشر أنظمة AI إنتاجية، وبناء أنظمة Agent/LLM متقدمة**.  
-أتعامل مع مشاكل الـ AI كأنها **أنظمة هندسية**: بيانات، نماذج، نشر، مراقبة وتحسين.
+# 👋 نبذة عني
+أنا **محمد محمد يحيى الحاج** — مهندس ذكاء اصطناعي متخصص في **تعلم الآلة، التعلم العميق، الرؤية الحاسوبية ومعالجة الصور**،  
+أعمل على تصميم وبناء **أنظمة ذكاء اصطناعي إنتاجية** تعتمد على البيانات، النماذج، والنشر الواقعي.
+
+> **منهجيتي:** أتعامل مع مشاكل الذكاء الاصطناعي كنُظم هندسية متكاملة، وليس كنماذج فقط.
 
 ---
 
-# 🥇 Core Expertise — نُقطة القوة (مُرتّبة حسب الأولوية)
-- Machine Learning · Deep Learning (تصميم، تدريب، تقييم)  
-- Computer Vision · Image Processing (real-time inference, pipelines)  
-- LLM Engineering · RAG · Agentic AI (LangChain, LangGraph)  
-- Model Lifecycle: data collection → training → evaluation → deployment → monitoring  
-- Optimization: fine-tuning, quantization, pruning, model compression  
-- Low-latency inference & edge deployment
-
----
-
-# 🧠 LLMs & Agents — تفصيل هندسي
-- Advanced Prompt Engineering & Prompt Eval  
-- Tool-calling / Function-calling (LLM → Tools)  
-- Persistent & Ephemeral Memory for agents  
-- Hybrid retrieval (Vector DB + Keyword search)  
-- Multi-agent orchestration (LangGraph patterns)  
-- RAG evaluation: faithfulness, retrieval quality, hallucination mitigation
-
----
-
-# 🥈 Supporting Stack — البنية الهندسية
-- Backend: Django · FastAPI · Laravel  
-- Model Serving: FastAPI + Docker / GPU-aware containers  
-- Data pipelines: ETL, preprocessing, augmentation, dataset versioning  
-- Frontend / Mobile: Flutter (لواجهات تحمل نماذج AI)  
-- Monitoring & Logging: basic setups (Prometheus / Grafana / W&B for experiments)
-
----
-
-# 🗄️ Databases & Retrieval
-- MongoDB (NoSQL) — تصميم مخططات مرنة للـ telemetry والـ metadata  
-- PostgreSQL / MySQL — العلاقات، التحليلات، وACID-backed storage  
-- Vector DBs: Milvus · Pinecone · FAISS — لبناء RAG وsemantic search  
-- Hybrid retrieval patterns: SQL + Vector join, indexing, ANN tuning
-
----
-
-# 🥉 DevOps & Production Readiness
-- Git & GitHub (branches, PRs, workflows)  
-- Docker (multi-stage builds, slim images)  
-- CI/CD (GitHub Actions pipelines for tests & builds)  
-- Environments: dev / staging / prod separation  
-- GPU deployment basics, container orchestration patterns  
-- Observability: logs, metrics, ephemeral tracing for inference
-
----
-
-# 💻 اللغات البرمجية
-Python · C++ · C# · Java · JavaScript · PHP · HTML/CSS · Dart (Flutter)
-
----
-
-# ⚡ Featured Projects (روابط مباشرة)
-- **Yemen License Plate Recognition System** — OCR + CV ➜ https://github.com/mohammed-alhaj-7ds/yemen-licenser-plate-recognition-system  
-- **Smart Parking Occupancy System** — real-time occupancy detection ➜ https://github.com/mohammed-alhaj-7ds/parking_occupancy_project  
-- **Smart-Parking (alternate repo / demos)** — https://github.com/mohammed-alhaj-7ds/smart-parking  
-> (أضف روابط إضافية لمستودعات أخرى أو ملفات PDF وDeployment URLs هنا)
-
----
-
-# 📊 إحصائياتي على GitHub
+# 🥇 Core Expertise (نقطة القوة الأساسية)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammed-alhaj-7ds&show_icons=true&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
 </p>
 
+- Machine Learning & Deep Learning  
+- Computer Vision & Image Processing  
+- Data-centric AI  
+- Model Lifecycle Engineering  
+- Real-time & Low-latency Inference  
+- Optimization (Fine-tuning, Quantization, Pruning)
+
+---
+
+# 🧠 LLMs · RAG · Agentic AI
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-alhaj-7ds&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/LLMs-Generative%20AI-7B61FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agents-LangChain%20%7C%20LangGraph-5A67D8?style=for-the-badge" />
 </p>
 
+- Advanced Prompt Engineering  
+- Tool / Function Calling  
+- Agent Memory Systems  
+- Multi-step & Multi-agent Workflows  
+- Hybrid Retrieval (Vector + Keyword)  
+- LLM Evaluation & Hallucination Mitigation  
+
+---
+
+# 🥈 Supporting Engineering Stack
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-alhaj-7ds&layout=compact&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=django,fastapi,laravel,flutter" />
 </p>
 
----
-
-# 🧪 نموذج دورة حياة المشروع (مثال عملي)
-1. جمع البيانات: كاميرات، لقطات، CSV ميتاداتا → تخزين في MongoDB / S3.  
-2. تجهيز البيانات: تصفية، augmentation، تقسيم، versioning.  
-3. التدريب: PyTorch/TensorFlow، مراقبة التجارب بـ W&B.  
-4. تحسين: fine-tune → quantize → prune.  
-5. نشر: حزم Docker + FastAPI، اختبار زمن الاستجابة (latency).  
-6. مراقبة: logging, metrics, periodic re-training.
+- Backend Systems (Django · FastAPI · Laravel)  
+- AI Model Serving & APIs  
+- ETL Pipelines & Data Processing  
+- Cross-platform AI Applications (Flutter)  
+- System Integration (AI + Backend)
 
 ---
 
-# 🔧 Badges & Tools (مُفصّل)
+# 🗄️ Databases & Data Systems
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql" />
-  <img src="https://img.shields.io/badge/Milvus-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FAISS-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangChain-7B61FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangGraph-7B61FF?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+  <img src="https://img.shields.io/badge/Vector%20DBs-Milvus%20%7C%20Pinecone%20%7C%20FAISS-101010?style=for-the-badge" />
 </p>
 
+- MongoDB (NoSQL, metadata, telemetry)  
+- SQL Databases (MySQL · PostgreSQL)  
+- Vector Databases for Semantic Search & RAG  
+- Hybrid Retrieval Architectures  
+- Indexing & Performance Optimization  
+
 ---
 
-# ✅ ماذا يميّزني (ملخص مختصر يقرأ بسرعة)
-- أتعامل مع مشاكل الـ AI كـ **أنظمة متكاملة** (بيانات + نماذج + نشر).  
-- خبرة في ربط **الكاميرات / أجهزة IoT** مع خوادم ML حية.  
-- أفضّل الحلول القابلة للقياس، القابلة للصيانة، والمثبتة في الإنتاج.
+# 🥉 DevOps · Systems · Production
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
+</p>
+
+- Git & GitHub (Version control, collaboration)  
+- Docker & Containerized AI Services  
+- Linux-based Environments  
+- Dev / Staging / Production Separation  
+- GPU-aware Deployment (Foundations)  
+- Logging & Monitoring (Foundations)
 
 ---
 
-# 📫 تواصل
-- GitHub: https://github.com/mohammed-alhaj-7ds  
-- LinkedIn: (أضف رابطك هنا)  
-- Email: (أضف بريدك هنا)
+# 💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,js,php,html,css,dart" />
+</p>
+
+- Python (Primary AI & Backend Language)  
+- C++ · C# · Java  
+- JavaScript · PHP  
+- HTML · CSS  
+- Dart (Flutter)
+
+---
+
+# ⚡ Selected Project Domains
+- Smart Parking Systems (Computer Vision)  
+- License Plate Recognition & OCR  
+- Intelligent AI Agents (LLM-powered)  
+- Real-time Vision Systems  
+- AI + IoT Integrations  
+
+---
+
+# 🧪 AI System Lifecycle (How I Work)
+1. Data collection & validation  
+2. Data preprocessing & augmentation  
+3. Model training & evaluation  
+4. Optimization & compression  
+5. Deployment (APIs / Containers)  
+6. Monitoring & iterative improvement  
+
+---
+
+# 🎯 Professional Goals
+- Build scalable, reliable **AI systems for real-world use**
+- Advance **Agentic AI & RAG architectures**
+- Combine **AI + Backend + IoT**
+- Contribute to impactful **open-source projects**
+
+---
+
+# 🧭 What Defines Me
+- Engineering-first AI mindset  
+- Strong balance between theory and production  
+- Focus on reliability, performance, and maintainability  
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=footer" />
 </p>

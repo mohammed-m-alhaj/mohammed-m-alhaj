@@ -144,7 +144,7 @@ My experience includes:
 
 ---
 
-## 🛠️ Technologies & Tools (Listed Last by Design)
+## 🛠️ Technologies & Tools
 
 ### Programming Languages
 <p align="center">

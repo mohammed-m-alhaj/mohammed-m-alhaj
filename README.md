@@ -5,49 +5,61 @@
 
 ---
 
-## 👋 Hi, I'm Mohammed Al-Haj
+## 👋 About Me
+Hi, I’m **Mohammed Al-Haj**, an AI Engineer focused on building **practical, production-ready AI systems**.
 
-💡 AI Engineer focused on building real-world AI systems.
-
-I work with **LLMs, RAG, AI Agents, Machine Learning, and Data Systems**, building solutions that are practical, scalable, and production-ready.
-
----
-
-## 🚀 What I Do
-
-- 🤖 Build AI-powered applications  
-- 🧠 Develop LLM systems (RAG, Agents)  
-- ⚙️ Design backend APIs & AI services  
-- 🔄 Build data pipelines & automation workflows  
-- 🚀 Deploy and improve real-world AI systems  
+I work across **Machine Learning, LLMs, RAG, AI Agents, and Data Systems**, building solutions that are scalable, reliable, and actually used in real-world scenarios.
 
 ---
 
-## 🧠 Skills
+## 🚀 Tech Stack & Technologies
 
-### 🤖 AI & Machine Learning
-Machine Learning · Deep Learning · NLP · Computer Vision · Generative AI · LLMs · RAG · OCR · Neural Networks  
-
----
-
-### 🧠 LLM Systems & AI Engineering
-AI Agents · Prompt Engineering · LangChain · LangGraph · Workflow Orchestration · Vector Databases  
-
----
-
-### 💻 Programming
+### 💻 Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,php,sql" />
 </p>
 
 ---
 
-### ⚙️ Backend & Systems
+### 🤖 AI & Machine Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+</p>
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange)
+![Pandas](https://img.shields.io/badge/Pandas-Data-blue)
+![NumPy](https://img.shields.io/badge/NumPy-Array-green)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![NLTK](https://img.shields.io/badge/NLTK-NLP-yellow)
+![SpaCy](https://img.shields.io/badge/SpaCy-NLP-blue)
+
+---
+
+### 🧠 LLM & AI Systems
+![LLMs](https://img.shields.io/badge/LLMs-AI-blue)
+![RAG](https://img.shields.io/badge/RAG-System-purple)
+![AI Agents](https://img.shields.io/badge/AI-Agents-black)
+![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-orange)
+![LangChain](https://img.shields.io/badge/LangChain-Framework-blue)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agent%20Orchestration-purple)
+
+---
+
+### 🗄️ Vector Databases
+![Qdrant](https://img.shields.io/badge/Qdrant-VectorDB-blue)
+![Weaviate](https://img.shields.io/badge/Weaviate-VectorDB-green)
+![Milvus](https://img.shields.io/badge/Milvus-VectorDB-orange)
+
+---
+
+### ⚙️ Backend & APIs
 <p align="center">
   <img src="https://skillicons.dev/icons?i=fastapi,django,laravel" />
 </p>
 
-REST APIs · API Integration · System Design · Authentication  
+![REST API](https://img.shields.io/badge/REST-API-green)
+![API Integration](https://img.shields.io/badge/API-Integration-blue)
+![Authentication](https://img.shields.io/badge/Auth-Security-orange)
 
 ---
 
@@ -56,33 +68,33 @@ REST APIs · API Integration · System Design · Authentication
   <img src="https://skillicons.dev/icons?i=react,html,css" />
 </p>
 
-React Router · React Query · Bootstrap  
-
----
-
-### 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-</p>
+![React Router](https://img.shields.io/badge/React-Router-blue)
+![React Query](https://img.shields.io/badge/React-Query-purple)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-UI-blueviolet)
 
 ---
 
 ### 📊 Data & Big Data
-Pandas · NumPy · Matplotlib · Apache Spark · PySpark · Data Pipelines  
+![Apache Spark](https://img.shields.io/badge/Spark-BigData-red)
+![PySpark](https://img.shields.io/badge/PySpark-Distributed-yellow)
+![Data Pipelines](https://img.shields.io/badge/Data-Pipelines-blue)
 
 ---
 
 ### 🤖 Automation & Integration
-n8n · Workflow Automation · Webhooks · Conditional Logic  
+![n8n](https://img.shields.io/badge/n8n-Automation-orange)
+![Webhooks](https://img.shields.io/badge/Webhooks-Integration-blue)
+![Workflow Automation](https://img.shields.io/badge/Workflow-Automation-purple)
 
 ---
 
-### 🛠️ DevOps & Tools
+### 🛠️ DevOps & Systems
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
 </p>
 
-CI/CD · Model Deployment  
+![CI/CD](https://img.shields.io/badge/CI/CD-Pipelines-green)
+![Model Deployment](https://img.shields.io/badge/Model-Deployment-blue)
 
 ---
 
@@ -105,39 +117,6 @@ CI/CD · Model Deployment
   <img src="https://github-readme-stats.vercel.app/api?username=mohammed-m-alhaj&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-m-alhaj&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 🔥 Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-m-alhaj&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammed-m-alhaj&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🧩 Projects
-
-- 🖼️ Computer Vision Systems (YOLO, OCR, real-world datasets)  
-- 🧠 LLM Systems (RAG, multi-source retrieval)  
-- 🤖 Multi-Agent AI Systems (LangGraph workflows)  
-- 📊 Data pipelines & AI-driven systems  
-
----
-
-## 🎯 Current Focus
-
-- 🚀 Building production-ready AI systems  
-- 🧠 Improving LLM-based applications  
-- 🤖 Exploring agent-based workflows  
 
 ---
 

@@ -9,7 +9,7 @@
 
 💡 AI Engineer focused on building real-world AI systems.
 
-I work with **LLMs, RAG, AI Agents, Machine Learning, and Data Systems**, building solutions that are practical, scalable, and production-ready.
+I work across **Machine Learning, LLMs, RAG, AI Agents, Data Engineering, and Full-Stack AI Systems**, building solutions that are practical, scalable, and production-ready.
 
 ---
 
@@ -23,22 +23,40 @@ I work with **LLMs, RAG, AI Agents, Machine Learning, and Data Systems**, buildi
 
 ---
 
-## 🧠 Technical Focus
+## 🧠 Skills
 
-- Machine Learning & Deep Learning  
-- Natural Language Processing (NLP)  
-- Computer Vision  
-- Generative AI (LLMs, RAG, Agents)  
-- System Design & AI Integration  
+### 🤖 AI & Machine Learning
+Machine Learning · Deep Learning · NLP · Computer Vision · Generative AI · LLMs · RAG · OCR · Neural Networks · Data Mining  
 
 ---
 
-## 🧩 Projects
+### 🧠 LLM Systems & AI Engineering
+AI Agents · Prompt Engineering · LangChain · LangGraph · Workflow Orchestration · Vector Databases  
 
-- 🖼️ Computer Vision systems (YOLO, OCR)  
-- 🧠 LLM systems (RAG, multi-source retrieval)  
-- 🤖 Multi-agent systems (LangGraph workflows)  
-- 📊 Data pipelines & AI-driven systems  
+---
+
+### 💻 Programming
+Python · JavaScript · PHP · SQL · NoSQL  
+
+---
+
+### ⚙️ Backend & Systems
+FastAPI · Django · Laravel · REST APIs · API Integration · System Design · Authentication  
+
+---
+
+### 📊 Data & Big Data
+Data Analysis · Data Pipelines · Apache Spark · PySpark · Big Data Processing  
+
+---
+
+### 🤖 Automation & Integration
+n8n · Workflow Automation · Webhooks · Conditional Logic  
+
+---
+
+### 🛠️ DevOps & Tools
+Docker · Git · GitHub · Linux · CI/CD · Model Deployment  
 
 ---
 
@@ -61,17 +79,15 @@ I work with **LLMs, RAG, AI Agents, Machine Learning, and Data Systems**, buildi
 ---
 
 ### 🧠 LLM & AI Systems
-- LangChain · LangGraph · RAG · AI Agents · Prompt Engineering  
-- Vector Databases (Qdrant · Weaviate · Milvus)
+- LangChain · LangGraph · RAG · AI Agents  
+- Vector DBs: Qdrant · Weaviate · Milvus  
 
 ---
 
-### ⚙️ Backend & APIs
+### ⚙️ Backend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=fastapi,django,laravel" />
 </p>
-
-- REST APIs · API Integration · Webhooks  
 
 ---
 
@@ -92,33 +108,31 @@ I work with **LLMs, RAG, AI Agents, Machine Learning, and Data Systems**, buildi
 ---
 
 ### 📊 Data & Big Data
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
 - Apache Spark · PySpark · Data Pipelines · Data Analysis  
 
 ---
 
-### ⚙️ Automation & Integration
-- n8n · Workflow Automation · Conditional Logic  
-
----
-
-### 🛠️ DevOps & Tools
+### 🛠️ DevOps
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
 </p>
 
-- CI/CD · Model Deployment  
+---
+
+## 🧩 Projects
+
+- 🖼️ Computer Vision Systems (YOLO, OCR, real-world datasets)  
+- 🧠 LLM Systems (RAG, multi-source retrieval)  
+- 🤖 Multi-Agent AI Systems (LangGraph workflows)  
+- 📊 Data-driven AI systems and pipelines  
 
 ---
 
 ## 🎯 Current Focus
 
-- 🚀 Production-ready AI systems  
-- 🧠 LLM-based applications  
-- 🤖 Agent-based workflows  
+- 🚀 Building production-ready AI systems  
+- 🧠 Improving LLM-based applications  
+- 🤖 Exploring agent-based workflows  
 
 ---
 

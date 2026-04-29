@@ -7,88 +7,118 @@
 
 ## 👋 Hi, I'm Mohammed Al-Haj
 
-💡 AI Engineer focused on building practical, real-world AI systems.
+💡 AI Engineer focused on building real-world AI systems.
 
-I work mainly with **LLMs, RAG, and AI agents**, and I’m interested in turning ideas into systems that are reliable, scalable, and actually useful.
+I work with **LLMs, RAG, AI Agents, Machine Learning, and Data Systems**, building solutions that are practical, scalable, and production-ready.
 
 ---
 
 ## 🚀 What I Do
 
 - 🤖 Build AI-powered applications  
-- 🧠 Develop LLM-based systems (RAG, Agents)  
-- ⚙️ Design backend APIs for AI systems  
-- 🔄 Work on data pipelines and system integration  
-- 🚀 Deploy and improve real-world AI solutions  
+- 🧠 Develop LLM systems (RAG, Agents)  
+- ⚙️ Design backend APIs & AI services  
+- 🔄 Build data pipelines & automation workflows  
+- 🚀 Deploy and improve real-world AI systems  
 
 ---
 
 ## 🧠 Technical Focus
 
-- 🧠 Machine Learning & Deep Learning  
-- 💬 Natural Language Processing (NLP)  
-- 👁️ Computer Vision  
-- 🤖 Generative AI (LLMs, RAG, Agents)  
-- 🏗️ System Design & AI Integration  
+- Machine Learning & Deep Learning  
+- Natural Language Processing (NLP)  
+- Computer Vision  
+- Generative AI (LLMs, RAG, Agents)  
+- System Design & AI Integration  
 
 ---
 
 ## 🧩 Projects
 
 - 🖼️ Computer Vision systems (YOLO, OCR)  
-- 🧠 LLM applications (RAG, multi-source retrieval)  
+- 🧠 LLM systems (RAG, multi-source retrieval)  
 - 🤖 Multi-agent systems (LangGraph workflows)  
-- 📊 Data-driven AI systems  
+- 📊 Data pipelines & AI-driven systems  
 
 ---
 
 ## ⚙️ Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,sql" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,php,sql" />
 </p>
 
 ---
 
-### 🤖 AI & ML
+### 🤖 AI & Machine Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 </p>
 
-- Scikit-learn · Hugging Face  
+- Scikit-learn · Pandas · NumPy · Matplotlib · NLTK · SpaCy  
 
 ---
 
-### 🧠 LLM Systems
-- LangChain · LangGraph · RAG · Vector Databases  
+### 🧠 LLM & AI Systems
+- LangChain · LangGraph · RAG · AI Agents · Prompt Engineering  
+- Vector Databases (Qdrant · Weaviate · Milvus)
 
 ---
 
-### ⚙️ Backend
+### ⚙️ Backend & APIs
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,django" />
+  <img src="https://skillicons.dev/icons?i=fastapi,django,laravel" />
+</p>
+
+- REST APIs · API Integration · Webhooks  
+
+---
+
+### 🌐 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
+
+- React Router · React Query · Bootstrap  
+
+---
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </p>
 
 ---
 
-### 📊 Data
-- Pandas · NumPy · Apache Spark  
+### 📊 Data & Big Data
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- Apache Spark · PySpark · Data Pipelines · Data Analysis  
 
 ---
 
-### 🛠️ Tools
+### ⚙️ Automation & Integration
+- n8n · Workflow Automation · Conditional Logic  
+
+---
+
+### 🛠️ DevOps & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,linux" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
 </p>
+
+- CI/CD · Model Deployment  
 
 ---
 
 ## 🎯 Current Focus
 
-- 🚀 Building production-ready AI systems  
-- 🧠 Improving LLM-based applications  
-- 🤖 Exploring agent-based workflows  
+- 🚀 Production-ready AI systems  
+- 🧠 LLM-based applications  
+- 🤖 Agent-based workflows  
 
 ---
 

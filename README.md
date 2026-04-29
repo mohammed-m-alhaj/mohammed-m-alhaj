@@ -9,33 +9,33 @@
 
 💡 AI Engineer focused on building real-world AI systems.
 
+I work with **LLMs, RAG, AI Agents, Machine Learning, and Data Systems**, building solutions that are practical, scalable, and production-ready.
+
+---
+
+## 🚀 What I Do
+
+- 🤖 Build AI-powered applications  
+- 🧠 Develop LLM systems (RAG, Agents)  
+- ⚙️ Design backend APIs & AI services  
+- 🔄 Build data pipelines & automation workflows  
+- 🚀 Deploy and improve real-world AI systems  
+
 ---
 
 ## 🧠 Skills
 
 ### 🤖 AI & Machine Learning
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-</p>
-
-![LLMs](https://img.shields.io/badge/LLMs-AI-blue)
-![RAG](https://img.shields.io/badge/RAG-System-purple)
-![NLP](https://img.shields.io/badge/NLP-Natural%20Language-green)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-DeepLearning-orange)
-![OCR](https://img.shields.io/badge/OCR-Recognition-red)
+Machine Learning · Deep Learning · NLP · Computer Vision · Generative AI · LLMs · RAG · OCR · Neural Networks  
 
 ---
 
 ### 🧠 LLM Systems & AI Engineering
-![LangChain](https://img.shields.io/badge/LangChain-Framework-black)
-![LangGraph](https://img.shields.io/badge/LangGraph-Agents-blue)
-![AI Agents](https://img.shields.io/badge/AI-Agents-purple)
-![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-orange)
-![Vector DB](https://img.shields.io/badge/Vector%20DB-Qdrant%20%7C%20Weaviate%20%7C%20Milvus-blue)
+AI Agents · Prompt Engineering · LangChain · LangGraph · Workflow Orchestration · Vector Databases  
 
 ---
 
-### 💻 Programming Languages
+### 💻 Programming
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,php,sql" />
 </p>
@@ -47,9 +47,7 @@
   <img src="https://skillicons.dev/icons?i=fastapi,django,laravel" />
 </p>
 
-![REST API](https://img.shields.io/badge/REST-API-green)
-![System Design](https://img.shields.io/badge/System-Design-blue)
-![Authentication](https://img.shields.io/badge/Auth-Security-orange)
+REST APIs · API Integration · System Design · Authentication  
 
 ---
 
@@ -58,9 +56,7 @@
   <img src="https://skillicons.dev/icons?i=react,html,css" />
 </p>
 
-![React Router](https://img.shields.io/badge/React-Router-blue)
-![React Query](https://img.shields.io/badge/React-Query-purple)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-UI-blueviolet)
+React Router · React Query · Bootstrap  
 
 ---
 
@@ -72,18 +68,12 @@
 ---
 
 ### 📊 Data & Big Data
-![Pandas](https://img.shields.io/badge/Pandas-Data-blue)
-![NumPy](https://img.shields.io/badge/NumPy-Array-green)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
-![Apache Spark](https://img.shields.io/badge/Spark-BigData-red)
-![PySpark](https://img.shields.io/badge/PySpark-Distributed-yellow)
+Pandas · NumPy · Matplotlib · Apache Spark · PySpark · Data Pipelines  
 
 ---
 
 ### 🤖 Automation & Integration
-![n8n](https://img.shields.io/badge/n8n-Automation-orange)
-![Webhooks](https://img.shields.io/badge/Webhooks-Integration-blue)
-![Workflow](https://img.shields.io/badge/Workflow-Automation-purple)
+n8n · Workflow Automation · Webhooks · Conditional Logic  
 
 ---
 
@@ -92,17 +82,62 @@
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
 </p>
 
-![CI/CD](https://img.shields.io/badge/CI/CD-Pipelines-green)
-![Model Deployment](https://img.shields.io/badge/Model-Deployment-blue)
+CI/CD · Model Deployment  
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/mohammed-m-alhaj/yemen-licenser-plate-recognition-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammed-m-alhaj&repo=yemen-licenser-plate-recognition-system&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/mohammed-m-alhaj/mindRouter-agent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammed-m-alhaj&repo=mindRouter-agent&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammed-m-alhaj&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-m-alhaj&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-m-alhaj&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammed-m-alhaj&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
 ## 🧩 Projects
 
-- 🖼️ Computer Vision Systems  
-- 🧠 LLM Systems (RAG, Agents)  
-- 🤖 Multi-Agent Systems  
-- 📊 Data Pipelines & AI Systems  
+- 🖼️ Computer Vision Systems (YOLO, OCR, real-world datasets)  
+- 🧠 LLM Systems (RAG, multi-source retrieval)  
+- 🤖 Multi-Agent AI Systems (LangGraph workflows)  
+- 📊 Data pipelines & AI-driven systems  
+
+---
+
+## 🎯 Current Focus
+
+- 🚀 Building production-ready AI systems  
+- 🧠 Improving LLM-based applications  
+- 🤖 Exploring agent-based workflows  
 
 ---
 

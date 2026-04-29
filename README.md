@@ -9,58 +9,31 @@
 
 💡 AI Engineer focused on building real-world AI systems.
 
-I work across **Machine Learning, LLMs, RAG, AI Agents, Data Engineering, and Full-Stack AI Systems**, building solutions that are practical, scalable, and production-ready.
-
----
-
-## 🚀 What I Do
-
-- 🤖 Build AI-powered applications  
-- 🧠 Develop LLM systems (RAG, Agents)  
-- ⚙️ Design backend APIs & AI services  
-- 🔄 Build data pipelines & automation workflows  
-- 🚀 Deploy and improve real-world AI systems  
-
 ---
 
 ## 🧠 Skills
 
 ### 🤖 AI & Machine Learning
-Machine Learning · Deep Learning · NLP · Computer Vision · Generative AI · LLMs · RAG · OCR · Neural Networks · Data Mining  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+</p>
+
+![LLMs](https://img.shields.io/badge/LLMs-AI-blue)
+![RAG](https://img.shields.io/badge/RAG-System-purple)
+![NLP](https://img.shields.io/badge/NLP-Natural%20Language-green)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-DeepLearning-orange)
+![OCR](https://img.shields.io/badge/OCR-Recognition-red)
 
 ---
 
 ### 🧠 LLM Systems & AI Engineering
-AI Agents · Prompt Engineering · LangChain · LangGraph · Workflow Orchestration · Vector Databases  
+![LangChain](https://img.shields.io/badge/LangChain-Framework-black)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agents-blue)
+![AI Agents](https://img.shields.io/badge/AI-Agents-purple)
+![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-orange)
+![Vector DB](https://img.shields.io/badge/Vector%20DB-Qdrant%20%7C%20Weaviate%20%7C%20Milvus-blue)
 
 ---
-
-### 💻 Programming
-Python · JavaScript · PHP · SQL · NoSQL  
-
----
-
-### ⚙️ Backend & Systems
-FastAPI · Django · Laravel · REST APIs · API Integration · System Design · Authentication  
-
----
-
-### 📊 Data & Big Data
-Data Analysis · Data Pipelines · Apache Spark · PySpark · Big Data Processing  
-
----
-
-### 🤖 Automation & Integration
-n8n · Workflow Automation · Webhooks · Conditional Logic  
-
----
-
-### 🛠️ DevOps & Tools
-Docker · Git · GitHub · Linux · CI/CD · Model Deployment  
-
----
-
-## ⚙️ Tech Stack
 
 ### 💻 Programming Languages
 <p align="center">
@@ -69,25 +42,14 @@ Docker · Git · GitHub · Linux · CI/CD · Model Deployment
 
 ---
 
-### 🤖 AI & Machine Learning
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-</p>
-
-- Scikit-learn · Pandas · NumPy · Matplotlib · NLTK · SpaCy  
-
----
-
-### 🧠 LLM & AI Systems
-- LangChain · LangGraph · RAG · AI Agents  
-- Vector DBs: Qdrant · Weaviate · Milvus  
-
----
-
-### ⚙️ Backend
+### ⚙️ Backend & Systems
 <p align="center">
   <img src="https://skillicons.dev/icons?i=fastapi,django,laravel" />
 </p>
+
+![REST API](https://img.shields.io/badge/REST-API-green)
+![System Design](https://img.shields.io/badge/System-Design-blue)
+![Authentication](https://img.shields.io/badge/Auth-Security-orange)
 
 ---
 
@@ -96,7 +58,9 @@ Docker · Git · GitHub · Linux · CI/CD · Model Deployment
   <img src="https://skillicons.dev/icons?i=react,html,css" />
 </p>
 
-- React Router · React Query · Bootstrap  
+![React Router](https://img.shields.io/badge/React-Router-blue)
+![React Query](https://img.shields.io/badge/React-Query-purple)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-UI-blueviolet)
 
 ---
 
@@ -108,31 +72,37 @@ Docker · Git · GitHub · Linux · CI/CD · Model Deployment
 ---
 
 ### 📊 Data & Big Data
-- Apache Spark · PySpark · Data Pipelines · Data Analysis  
+![Pandas](https://img.shields.io/badge/Pandas-Data-blue)
+![NumPy](https://img.shields.io/badge/NumPy-Array-green)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![Apache Spark](https://img.shields.io/badge/Spark-BigData-red)
+![PySpark](https://img.shields.io/badge/PySpark-Distributed-yellow)
 
 ---
 
-### 🛠️ DevOps
+### 🤖 Automation & Integration
+![n8n](https://img.shields.io/badge/n8n-Automation-orange)
+![Webhooks](https://img.shields.io/badge/Webhooks-Integration-blue)
+![Workflow](https://img.shields.io/badge/Workflow-Automation-purple)
+
+---
+
+### 🛠️ DevOps & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
 </p>
+
+![CI/CD](https://img.shields.io/badge/CI/CD-Pipelines-green)
+![Model Deployment](https://img.shields.io/badge/Model-Deployment-blue)
 
 ---
 
 ## 🧩 Projects
 
-- 🖼️ Computer Vision Systems (YOLO, OCR, real-world datasets)  
-- 🧠 LLM Systems (RAG, multi-source retrieval)  
-- 🤖 Multi-Agent AI Systems (LangGraph workflows)  
-- 📊 Data-driven AI systems and pipelines  
-
----
-
-## 🎯 Current Focus
-
-- 🚀 Building production-ready AI systems  
-- 🧠 Improving LLM-based applications  
-- 🤖 Exploring agent-based workflows  
+- 🖼️ Computer Vision Systems  
+- 🧠 LLM Systems (RAG, Agents)  
+- 🤖 Multi-Agent Systems  
+- 📊 Data Pipelines & AI Systems  
 
 ---
 

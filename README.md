@@ -23,99 +23,107 @@ I work with **LLMs, RAG, AI Agents, Machine Learning, and Data Systems**, buildi
 
 ---
 
-# 🧠 Skills
+# 🧠 Core Skills
 
-<!-- ================= Animated Skills ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Machine+Learning;Deep+Learning;NLP;Computer+Vision;LLMs;RAG;AI+Agents;LangChain;LangGraph;Python;FastAPI;Django;Docker;Spark" />
+
+<img src="https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-6A0DAD?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-8BC34A?style=for-the-badge&logo=spacy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-FF7F50?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-7B1FA2?style=for-the-badge&logo=databricks&logoColor=white"/>
+
 </p>
 
 ---
 
-## 🤖 AI & Machine Learning
+# ⚙️ Tech Stack
+
+## 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-</p>
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-purple?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-green?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-orange?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-black?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-blueviolet?style=for-the-badge)
-![OCR](https://img.shields.io/badge/OCR-red?style=for-the-badge)
-
----
-
-## 🧠 LLM Systems & AI Engineering
-![LangChain](https://img.shields.io/badge/LangChain-blue?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-purple?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-black?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt-orange?style=for-the-badge)
-![Vector DB](https://img.shields.io/badge/Vector%20DB-blue?style=for-the-badge)
-
----
-
-## 💻 Programming
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,php,sql" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ---
 
-## ⚙️ Backend & Systems
+## 🤖 AI & ML
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,django,laravel" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
-![REST API](https://img.shields.io/badge/REST-API-green?style=for-the-badge)
-![API Integration](https://img.shields.io/badge/API-blue?style=for-the-badge)
-![System Design](https://img.shields.io/badge/System-black?style=for-the-badge)
-![Authentication](https://img.shields.io/badge/Auth-orange?style=for-the-badge)
+---
+
+## 🧠 LLM Systems
+<p align="center">
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-orange?style=for-the-badge"/>
+</p>
+
+---
+
+## ⚙️ Backend
+<p align="center">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+</p>
 
 ---
 
 ## 🌐 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
-
-![React Router](https://img.shields.io/badge/Router-blue?style=for-the-badge)
-![React Query](https://img.shields.io/badge/Query-purple?style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-violet?style=for-the-badge)
 
 ---
 
 ## 🗄️ Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ---
 
 ## 📊 Data & Big Data
-![Pandas](https://img.shields.io/badge/Pandas-blue?style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-green?style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge)
-![Spark](https://img.shields.io/badge/Spark-red?style=for-the-badge)
-![PySpark](https://img.shields.io/badge/PySpark-yellow?style=for-the-badge)
-
----
-
-## 🤖 Automation & Integration
-![n8n](https://img.shields.io/badge/n8n-orange?style=for-the-badge)
-![Webhooks](https://img.shields.io/badge/Webhooks-blue?style=for-the-badge)
-![Workflow](https://img.shields.io/badge/Workflow-purple?style=for-the-badge)
-
----
-
-## 🛠️ DevOps & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/PySpark-FF9900?style=for-the-badge"/>
 </p>
 
-![CI/CD](https://img.shields.io/badge/CI/CD-green?style=for-the-badge)
-![Deployment](https://img.shields.io/badge/Deployment-blue?style=for-the-badge)
+---
+
+## 🤖 Automation
+<p align="center">
+<img src="https://img.shields.io/badge/n8n-FE6D73?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Webhooks-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Workflow-purple?style=for-the-badge"/>
+</p>
+
+---
+
+## 🛠️ DevOps
+<p align="center">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 
 ---
 
@@ -135,24 +143,7 @@ I work with **LLMs, RAG, AI Agents, Machine Learning, and Data Systems**, buildi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammed-m-alhaj&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-m-alhaj&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-m-alhaj&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammed-m-alhaj&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammed-m-alhaj&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
